@@ -25,7 +25,7 @@ Main motive of the project is to take the image of any person and tell him the r
 
 Project detects the dimensions of a human body required for the clothes sizes. It does that by detecting the dimensions of the reference A4 sheet and measuring them. Then, it recognises the location of joints in the picture and then calculates the distance between the joints with respect to the reference sheet. Then, using a pre-defined range, as per the clothes vendor, it tells the corresponding size.
 
-<img src="sizzer_methodology.png" alt="Methodology" title="Methodology">
+![sizzer_methodology](https://user-images.githubusercontent.com/30906709/205591187-c01ed1df-fa3d-446f-8314-6f93995178c6.png)
 
 ## Authors
 
