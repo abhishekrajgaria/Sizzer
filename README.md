@@ -1,4 +1,4 @@
-# hack_v15
+# Sizzer - Cloth Size Predictor
 
 An application to detect clothes size using image analysis.<br> An A4 size sheet is used as a reference.
 
